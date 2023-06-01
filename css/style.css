@@ -32,3 +32,13 @@
 .meme-generator .meme-author{
     margin: 8px;
 }
+
+#copyright{
+    text-align: center;
+}
+
+#copyright a{
+    text-decoration: none;
+    color: #333;
+
+}
